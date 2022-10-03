@@ -1,14 +1,14 @@
 # Cplusplus_Investing_Compound_Interest
 Competency:
 In this project, you will demonstrate your mastery of the following competency:
-Design functi onal programs that comply with industry regulati ons and best practi ces
-Scenario
-Congratulati ons! You have completed the interview process and have been hired as a junior developer at Chada Tech. Now that you
+Design functi onal programs that comply with industry regulations and best practices
+Scenario:
+Congratulations! You have completed the interview process and have been hired as a junior developer at Chada Tech. Now that you
 have successfully completed your new-hire orientati on and have been introduced to the rest of your team, you are ready to jump in
-and start working on your fi rst project.
+and start working on your first project.
 You are asked to collaborate with Airgead Banking, one of Chada Tech’s clients. Airgead Banking is well known in the community.
 They oft en sponsor schools and have recently decided to partner with the local high school to develop a program that will teach
-students the concepts of fi scal responsibility (such as living within their means and spending less than they make) via an interacti ve
+students the concepts of fiscal responsibility (such as living within their means and spending less than they make) via an interactive
 system. The initi al focus for this project will be on investi ng and the power of compound interest. You will develop an applicati on
 that allows users to see how their investments will grow over ti me. Airgead Banking has provided you with a list of functi onal
 requirements that describe what they need their applicati on to do.
